@@ -16,4 +16,12 @@ Las pruebas se realizan sobre **DemoQA**, un sitio público para practicar testi
 - Buenas prácticas en automatización
 
 ## 📂 Estructura
+/tests ␣␣
+/pages ␣␣
+playwright.config.ts
+
+## ▶️ Cómo ejecutarlo
+npm install ␣␣
+npx playwright test
+
 
